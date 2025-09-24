@@ -69,3 +69,12 @@ WHERE guest_id = 1;
 
 DELETE FROM rooms
 WHERE room_id = 2;
+
+--default value --
+ALTER TABLE rooms 
+MODIFY status VARCHAR(20) NOT NULL DEFAULT 'Available';
+
+INSERT INTO rooms (room_id, room_number, room_type, price)
+VALUES (6, 106, 'Standard', 1800);
+
+
