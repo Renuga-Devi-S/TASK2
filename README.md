@@ -1,5 +1,5 @@
 # TASK2
-
+**INSERT / DELETE / UPDATE ROWS**
 # Insert Row - Guest 
 <img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/eac309cf-a613-4894-af09-2ba0093227fb" />
 
@@ -23,4 +23,8 @@
 
 # Deleted first row 
 <img width="1107" height="194" alt="image" src="https://github.com/user-attachments/assets/2712e13b-def3-4cd2-820c-8fdcfc618caf" />
+
+# default value 
+<img width="885" height="326" alt="image" src="https://github.com/user-attachments/assets/64fbbef0-7237-4f1b-b50f-f2002fc3af36" />
+
 
